@@ -28,6 +28,7 @@
 #include <drc/pixel-format.h>
 #include <drc/types.h>
 #include <memory>
+#include <functional>
 #include <string>
 #include <vector>
 
